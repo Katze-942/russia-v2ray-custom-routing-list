@@ -46,7 +46,6 @@
   {
     "outboundTag": "proxy",
     "domain": [
-      "geosite:avito",
       "domain:habr.com"
     ],
     "enabled": true,
